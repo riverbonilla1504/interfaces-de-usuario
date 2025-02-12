@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+.next/cache/
+
+# Configuración del entorno
+.env*
+!.env.example
+
+# Logs
+logs/
+*.log
+yarn.lock
+package-lock.json
+
+# Editor y sistema
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Tailwind y PostCSS
+postcss.config.*
+tailwind.config.*
+
+# Compilaciones y dependencias
+dist/
+build/
+
+# Git
+.git/
+
+# Otros archivos innecesarios
+coverage/

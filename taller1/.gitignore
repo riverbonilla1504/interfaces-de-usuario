@@ -27,10 +27,6 @@ package-lock.json
 *.swp
 *.swo
 
-# Tailwind y PostCSS
-postcss.config.*
-tailwind.config.*
-
 # Compilaciones y dependencias
 dist/
 build/

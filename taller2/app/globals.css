@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: 240 50% 45%; 
+    --primary-foreground: 240 50% 90%;
+    --secondary: 220 50% 90%; 
+    --accent: 140 50% 45%; 
+    --accent-foreground: 140 50% 90%;
+    --background: 220 30% 97%; 
+    --text: 227 0% 50%; /* Se corrigió el porcentaje */
+  }
+}
